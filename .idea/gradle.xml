@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/What ArrayList can store" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Autoboxing int" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Initializing long value" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/NPE, zero or null" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Safe converting" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Addresses" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement Comparable" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Leaderboard" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Natural ordering" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Value class" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Automatically generated constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Cookie" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Inner boxes" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Days of week" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Enum with two constants" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Reasons to use enum" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Directions" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Choose a pair of getter and setter" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Employee and Programmer" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Publications" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Saying animals" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Which methods will be overridden" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Incorrect class hierarchies" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Circle" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Invoke instance method" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface/What can an interface have" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Phone" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Time" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Change identities" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Null or not" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects/What is my age" />
+            <option value="$PROJECT_DIR$/Topics/Package/Binary search" />
+            <option value="$PROJECT_DIR$/Topics/Package/Class hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Package/Getting input" />
+            <option value="$PROJECT_DIR$/Topics/Package/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Topics/Package/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Package/Which classes are accessible" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Create an euphonious word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Generating passwords" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Mystery of the methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Searching bugs" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Behold the power of StringBuilder" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Concat all strings without digits" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Multiple modifications" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/The English alphabet" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Companies" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Setting a new name" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/When the keyword cannot be used" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: It can store duplicate elements
+- text: ' It cannot store primitive types'
+- text: It can store all types including primitives
+- text: It can only store as much elements as its initial capacity specify
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3488#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 10 Jun 2022 20:56:36 UTC
+record: -1
+selected_options:
+- 0
+- 1
